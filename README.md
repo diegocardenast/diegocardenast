@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegocardenast
 - 👀 I’m interested in learning how to code and solve problems with it.
-- 🌱 I’m currently learning python, java and SQL
+- 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on nice projects where I can keep improving my skills
 - 📫 How to reach me diego.cardenast@gmail.com
 
