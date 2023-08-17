@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @diegocardenast
-- 👀 I’m interested in learning how to code and solve problems with it.
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on nice projects where I can keep improving my skills
-- 📫 How to reach me diego.cardenast@gmail.com
+👋 Hi, I’m Diego, and I’m currently learning Full Stack (Diploma in Software Dev.)
+👀 I’m interested in collaborating on projects where I can keep improving my skills and solve problems that can bring a positive impact on society/industries/humanity
+📫 How to reach me: diego.cardenast@gmail.com
 
 <!---
 diegocardenast/diegocardenast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
