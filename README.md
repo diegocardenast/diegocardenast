@@ -5,6 +5,8 @@
 
  I’m interested in collaborating on projects where I can keep improving my skills and solve problems that can bring a positive impact on society/industries/humanity
 
+ Check my CV/Resume [clicking here](https://diegocardenast.github.io/cv-project-with-bootstrap/)
+
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=CluelessBiker&label=Profile%20views&color=EF2D5E&style=flat) -->
 
 <!-- Icons came from : [Simple Icons](https://simpleicons.org/) -->
